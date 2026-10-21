@@ -398,6 +398,7 @@ flowchart LR
 | [GitHub MCP Server](https://github.com/github/github-mcp-server) | Issues, PR, Actions, код — из любого агента | ⭐ 🟢 🆓 |
 | [Context7](https://github.com/upstash/context7) | Актуальная документация библиотек прямо в контекст агента | ⭐ 🟢 🆓 |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Управление браузером | 🟢 🆓 |
+| [Aident Loadout](https://aident.ai) | Один MCP-сервер для Codex, Claude Code, Cursor и других агентов: подключённые приложения, 400+ готовых навыков (Skills), ключи в Aident Vault и журнал действий | 🆓 🔌 |
 | [Serena](https://github.com/oraios/serena) | Семантическая навигация и правка кода через LSP | 🟢 🆓 |
 | [Supabase MCP](https://github.com/supabase/mcp) | Работа с БД и проектами Supabase | 🟢 🆓 |
 | [Smithery](https://smithery.ai) | Каталог и хостинг MCP-серверов | 🆓 |
