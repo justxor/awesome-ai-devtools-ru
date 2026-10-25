@@ -398,6 +398,7 @@ flowchart LR
 | [GitHub MCP Server](https://github.com/github/github-mcp-server) | Issues, PR, Actions, код — из любого агента | ⭐ 🟢 🆓 |
 | [Context7](https://github.com/upstash/context7) | Актуальная документация библиотек прямо в контекст агента | ⭐ 🟢 🆓 |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Управление браузером | 🟢 🆓 |
+| [ReMCP](https://github.com/getremcp/remcp) | MCP с OAuth для работы с терминалом, файлами и браузером на явно сопряжённых компьютерах; команды могут изменять данные | 🔌 |
 | [Serena](https://github.com/oraios/serena) | Семантическая навигация и правка кода через LSP | 🟢 🆓 |
 | [Supabase MCP](https://github.com/supabase/mcp) | Работа с БД и проектами Supabase | 🟢 🆓 |
 | [Smithery](https://smithery.ai) | Каталог и хостинг MCP-серверов | 🆓 |
