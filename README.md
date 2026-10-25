@@ -283,6 +283,7 @@ flowchart LR
 | [Claude Code on the web](https://claude.ai/code) | Claude Code в облачной песочнице из браузера и мобильного приложения | 🔌 |
 | [Factory](https://factory.ai) | Платформа «дроидов» для задач по всему жизненному циклу разработки | 🔌 |
 | [OpenHands Cloud](https://www.all-hands.dev) | Облачная версия открытого OpenHands | 🟢 🔑 |
+| [Orbi](https://orbi.build/?ref=awesome-ai-devtools-ru) | GitHub App: назначаешь issue, агент пишет код, прогоняет CI и открывает pull request на ревью ([исходники](https://github.com/orbi-build/orbi)) | 🟢 🆓 |
 
 ## 🏗 Конструкторы приложений
 
