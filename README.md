@@ -397,6 +397,7 @@ flowchart LR
 | [MCP Registry](https://github.com/modelcontextprotocol/registry) | Официальный реестр MCP-серверов | 🟢 🆓 |
 | [GitHub MCP Server](https://github.com/github/github-mcp-server) | Issues, PR, Actions, код — из любого агента | ⭐ 🟢 🆓 |
 | [Context7](https://github.com/upstash/context7) | Актуальная документация библиотек прямо в контекст агента | ⭐ 🟢 🆓 |
+| [Docsy](https://github.com/getremcp/docsy-plugin) | Поиск официальной документации SDK и фреймворков по версиям и исходным ссылкам через облачный MCP; требуется вход OAuth, инструменты только для чтения | 🔌 |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Управление браузером | 🟢 🆓 |
 | [Serena](https://github.com/oraios/serena) | Семантическая навигация и правка кода через LSP | 🟢 🆓 |
 | [Supabase MCP](https://github.com/supabase/mcp) | Работа с БД и проектами Supabase | 🟢 🆓 |
