@@ -201,6 +201,7 @@ flowchart LR
 | [Zed](https://zed.dev) | Быстрый редактор на Rust с агентной панелью и поддержкой внешних агентов (ACP) | 🟢 🆓 🏠 🔑 🔌 |
 | [Trae](https://www.trae.ai) | AI-IDE от ByteDance с режимом агента «Builder» | 🆓 🔌 |
 | [Void](https://github.com/voideditor/void) | Открытая альтернатива Cursor, работает с любыми моделями | 🟢 🆓 🏠 🔑 |
+| [Volt](https://github.com/LeulAria/volt) | Открытый агентный редактор кода на ядре VS Code: запускает Claude Code, Codex и другие агенты через ACP, работает с локальными моделями через Ollama, поддерживает MCP, git worktree и построчную проверку правок | 🟢 🆓 🏠 🔌 |
 | [JetBrains IDE + Junie](https://www.jetbrains.com/junie/) | Агент Junie и AI Assistant прямо в IntelliJ IDEA, PyCharm и др. | 🆓 🔑 🔌 |
 | [Replit](https://replit.com) | Облачная IDE с Replit Agent: от идеи до задеплоенного приложения в браузере | 🆓 |
 | [Firebase Studio](https://firebase.studio) | Облачная среда Google для full-stack приложений с Gemini | 🆓 |
