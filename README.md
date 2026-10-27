@@ -463,6 +463,7 @@ flowchart LR
 | [LiteLLM](https://github.com/BerriAI/litellm) | Шлюз | Один OpenAI-совместимый API для 100+ провайдеров, бюджеты, ключи | ⭐ 🟢 🆓 🏠 |
 | [OpenRouter](https://openrouter.ai) | Шлюз | Сотни моделей по одному ключу, есть бесплатные модели | 🆓 |
 | [Portkey](https://github.com/Portkey-AI/gateway) | Шлюз | AI-шлюз с fallback, кэшем и guardrails | 🟢 🆓 |
+| [BetterToken](https://bettertoken.ai/ru/) | Шлюз | Один ключ для Claude, GPT, DeepSeek, Qwen, Kimi и GLM; OpenAI- и Anthropic-совместимые эндпоинты, оплата по факту использования | |
 | [Langfuse](https://github.com/langfuse/langfuse) | Наблюдаемость | Трейсинг, промпты, оценки; можно self-hosted | ⭐ 🟢 🆓 |
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | Наблюдаемость | Трейсинг и оценка LLM на OpenTelemetry | 🟢 🆓 |
 | [OpenLLMetry](https://github.com/traceloop/openllmetry) | Наблюдаемость | OpenTelemetry-инструментация для LLM | 🟢 🆓 |
