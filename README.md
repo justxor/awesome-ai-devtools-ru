@@ -205,6 +205,7 @@ flowchart LR
 | [Replit](https://replit.com) | Облачная IDE с Replit Agent: от идеи до задеплоенного приложения в браузере | 🆓 |
 | [Firebase Studio](https://firebase.studio) | Облачная среда Google для full-stack приложений с Gemini | 🆓 |
 | [Theia IDE](https://theia-ide.org) | Открытая платформа IDE с AI-функциями и поддержкой любых LLM | 🟢 🆓 🏠 🔑 🔌 |
+| [FastSubs Code](https://fastsubs.org/download) | Настольный ИИ-агент для Windows, macOS и Linux: читает и правит проект, запускает команды, работает с моделями разных вендоров и оплатой в рублях | 🇷🇺 |
 
 ## 🧩 Расширения для IDE
 
