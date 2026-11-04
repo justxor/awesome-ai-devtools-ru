@@ -413,6 +413,7 @@ flowchart LR
 | [Conductor](https://conductor.build) | Mac-приложение: несколько Claude Code / Codex параллельно в worktree | ⭐ 🆓 |
 | [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) | Канбан-доска для управления армией агентов | 🟢 🆓 |
 | [Superset](https://superset.sh) | Рабочее пространство для CLI-агентов в отдельных worktree | 🆓 |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Настольное рабочее пространство с локальным хранением проекта, где Commander координирует специалистов и подключённых CLI-агентов для кода, исследований и документов с выбором поддерживаемого провайдера моделей | 🟢 🆓 🔑 🔌 |
 | [Claude Squad](https://github.com/smtg-ai/claude-squad) | Несколько агентов в tmux-сессиях | 🟢 🆓 |
 | [Sculptor](https://imbue.com/sculptor/) | Параллельные агенты в контейнерах от Imbue | 🆓 |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Фреймворк для своих мультиагентных систем | 🟢 🆓 |
