@@ -438,6 +438,7 @@ flowchart LR
 | [Repomix](https://github.com/yamadashy/repomix) | Упаковка репозитория в контекст | 🟢 🆓 |
 | [Cursor Rules](https://docs.cursor.com/context/rules) | Правила проекта для Cursor | — |
 | [Claude Code Skills](https://docs.claude.com/en/docs/claude-code/skills) | Навыки — переиспользуемые инструкции и скрипты для агента | — |
+| [ClickHouse Loom](https://github.com/ClickHouse/loom) | Общая долговременная память и индекс кода для агентов на своём сервере, через MCP | 🟢 🆓 🏠 🔌 |
 
 ## 🛠 Фреймворки для агентов и LLM-приложений
 
