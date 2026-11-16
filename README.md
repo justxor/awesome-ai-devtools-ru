@@ -414,6 +414,7 @@ flowchart LR
 | [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) | Канбан-доска для управления армией агентов | 🟢 🆓 |
 | [Superset](https://superset.sh) | Рабочее пространство для CLI-агентов в отдельных worktree | 🆓 |
 | [Claude Squad](https://github.com/smtg-ai/claude-squad) | Несколько агентов в tmux-сессиях | 🟢 🆓 |
+| [Concord](https://github.com/Get-Concord-AI/concord-mcp) | MCP-сервер, через который Claude Code, Codex, Cursor и Gemini CLI обмениваются сообщениями, закрепляют файлы до правок и передают задачи | 🟢 🆓 🔌 |
 | [Sculptor](https://imbue.com/sculptor/) | Параллельные агенты в контейнерах от Imbue | 🆓 |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Фреймворк для своих мультиагентных систем | 🟢 🆓 |
 | [Claude Agent SDK](https://docs.claude.com/en/docs/agent-sdk/overview) | Движок Claude Code как библиотека для своих агентов | 🆓 |
