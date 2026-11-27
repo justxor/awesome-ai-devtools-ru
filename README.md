@@ -427,6 +427,7 @@ flowchart LR
 | [container-use](https://github.com/dagger/container-use) | Каждому агенту свой контейнер и git-ветка | 🟢 🆓 🔌 |
 | [Modal](https://modal.com) | Serverless GPU/CPU и песочницы | 🆓 |
 | [Vercel Sandbox](https://vercel.com/docs/vercel-sandbox) | Изолированные микро-VM для недоверенного кода | 🆓 |
+| [Sandscale](https://sandscale.dev) | Firecracker микро-VM на каждый запуск агента, с правилами allow/ask/deny для инструментов, согласованиями и журналом аудита | 🆓 🔌 |
 
 ## 📚 Контекст для агентов
 
